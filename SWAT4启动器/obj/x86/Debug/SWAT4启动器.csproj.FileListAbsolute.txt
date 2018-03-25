@@ -1,0 +1,34 @@
+C:\Users\zhong\Documents\Visual Studio 2015\Projects\服务器示例\SWAT4启动器\SWAT4启动器\bin\x86\Debug\SWAT4启动器.exe.config
+C:\Users\zhong\Documents\Visual Studio 2015\Projects\服务器示例\SWAT4启动器\SWAT4启动器\bin\x86\Debug\SWAT4启动器.exe
+C:\Users\zhong\Documents\Visual Studio 2015\Projects\服务器示例\SWAT4启动器\SWAT4启动器\bin\x86\Debug\SWAT4启动器.pdb
+C:\Users\zhong\Documents\Visual Studio 2015\Projects\服务器示例\SWAT4启动器\SWAT4启动器\bin\x86\Debug\CSkin.dll
+C:\Users\zhong\Documents\Visual Studio 2015\Projects\服务器示例\SWAT4启动器\SWAT4启动器\bin\x86\Debug\CSkin.xml
+C:\Users\zhong\Documents\Visual Studio 2015\Projects\服务器示例\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.Form1.resources
+C:\Users\zhong\Documents\Visual Studio 2015\Projects\服务器示例\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.ListButton.resources
+C:\Users\zhong\Documents\Visual Studio 2015\Projects\服务器示例\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.Modname.resources
+C:\Users\zhong\Documents\Visual Studio 2015\Projects\服务器示例\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.Properties.Resources.resources
+C:\Users\zhong\Documents\Visual Studio 2015\Projects\服务器示例\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.csproj.GenerateResource.Cache
+C:\Users\zhong\Documents\Visual Studio 2015\Projects\服务器示例\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.exe
+C:\Users\zhong\Documents\Visual Studio 2015\Projects\服务器示例\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.pdb
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\bin\x86\Debug\SWAT4启动器.pdb
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\bin\x86\Debug\CSkin.dll
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\bin\x86\Debug\CSkin.xml
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.Download.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.DownloadButton.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.Error.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.ErrorPosition.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.Form1.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.info.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.ListButton.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.ModManager.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.Modname.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.Properties.Resources.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.Server.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.csproj.GenerateResource.Cache
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.csproj.CoreCompileInputs.cache
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.pdb
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.IPdialog.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\bin\x86\Debug\SWAT4启动器.exe.config
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\bin\x86\Debug\SWAT4启动器.exe
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\Debug\SWAT4启动器.exe

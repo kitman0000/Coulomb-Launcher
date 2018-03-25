@@ -1,0 +1,4 @@
+1、复制 库伦启动器.exe、CSkin.dll、ICSharpCode.SharpZipLib.dll到 SWAT4文件夹下（和Content,ContentExpansion同一文件夹内）
+2、游侠内设置游戏程序为S库伦启动器.exe
+如果有意见欢迎反馈至ELET（QQ群611194358）
+By：ELET软件开发部门

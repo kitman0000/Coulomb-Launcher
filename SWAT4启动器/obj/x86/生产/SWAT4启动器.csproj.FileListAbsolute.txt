@@ -1,0 +1,13 @@
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\生产\SWAT4启动器.Download.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\生产\SWAT4启动器.DownloadButton.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\生产\SWAT4启动器.Error.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\生产\SWAT4启动器.ErrorPosition.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\生产\SWAT4启动器.Form1.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\生产\SWAT4启动器.info.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\生产\SWAT4启动器.ListButton.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\生产\SWAT4启动器.ModManager.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\生产\SWAT4启动器.Modname.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\生产\SWAT4启动器.Properties.Resources.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\生产\SWAT4启动器.Server.resources
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\生产\SWAT4启动器.csproj.GenerateResource.Cache
+D:\C#\Projects\SWAT4启动器\SWAT4启动器\obj\x86\生产\SWAT4启动器.csproj.CoreCompileInputs.cache
